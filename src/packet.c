@@ -1,3 +1,7 @@
+/* 
+ NIC に到着した TCP のパケットを書き出しするプログラム
+ */
+
 #include <netinet/in.h>
 #include <errno.h>
 #include <netdb.h>
